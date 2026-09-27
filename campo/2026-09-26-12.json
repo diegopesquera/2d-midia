@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-26-12",
+  "data": "2026-09-26",
+  "praca": "Grande Fortaleza",
+  "marca": [
+    "Tio Joao"
+  ],
+  "identifica_loja": false,
+  "tipo": "foto",
+  "arquivo": "https://cdn.jsdelivr.net/gh/diegopesquera/2d-midia@main/campo/2026-09-26-12.jpg",
+  "legenda": "Tio João na gôndola de arroz, frenteado e com o rótulo virado para o cliente. Grande Fortaleza.",
+  "rosto": false,
+  "destaque": true
+}

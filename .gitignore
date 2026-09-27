@@ -1,0 +1,5 @@
+# A fila privada do acervo de campo nunca entra neste repositorio: ele e PUBLICO.
+# Ela guarda o original que o promotor mandou, com EXIF e, em video, a coordenada
+# GPS da loja do cliente. O que pode ser publicado e o par JSON + midia que
+# scripts/campo_da_pasta.py escreve em campo/, ja recodificado e sem metadado.
+.campo-privado/

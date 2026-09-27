@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-26-03",
+  "data": "2026-09-26",
+  "praca": "Grande Fortaleza",
+  "marca": [
+    "Tio Joao"
+  ],
+  "identifica_loja": false,
+  "tipo": "foto",
+  "arquivo": "https://cdn.jsdelivr.net/gh/diegopesquera/2d-midia@main/campo/2026-09-26-03.jpg",
+  "legenda": "Tio João na altura dos olhos, com a faixa de arroz organizada por tipo. Grande Fortaleza.",
+  "rosto": false,
+  "destaque": true
+}
